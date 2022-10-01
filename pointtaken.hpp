@@ -1,0 +1,6 @@
+#ifndef POINTTAKEN_HPP_INCLUDED
+#define POINTTAKEN_HPP_INCLUDED
+
+class PointTaken {};
+
+#endif // POINTTAKEN_HPP_INCLUDED
